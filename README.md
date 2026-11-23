@@ -1,6 +1,6 @@
 # Klasifikasi Citra Rock-Paper-Scissors
 
-Notebook ini membandingkan dua model Neural Network dense dan tiga model CNN untuk mengklasifikasikan gambar menjadi `rock`, `paper`, atau `scissors`. Eksperimen dijalankan di Google Colab; seluruh metrik dihitung ketika notebook dijalankan dan tidak berisi skor yang dibuat sebelumnya.
+Notebook ini membandingkan dua model Neural Network dense dan tiga model CNN untuk mengklasifikasikan gambar menjadi `rock`, `paper`, atau `scissors`. Eksperimen dijalankan di Google Colab; seluruh metrik dihitung ketika notebook dijalankan dan tidak berisi skor yang dibuat sebelumnya
 
 ## File proyek
 
